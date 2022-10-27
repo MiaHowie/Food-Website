@@ -1,0 +1,40 @@
+body {
+    background-color: cyan;
+}
+
+
+
+img {
+    border-radius: 25px;
+    width: 500px;
+}
+
+body page2 {
+    background-color: #33FF39;
+}
+
+.header {
+    text-align: center;
+    margin: auto;
+}
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+    text-transform: capitalize;
+}
+
+topnav {
+    overflow: hidden;
+    background-color: #333;
+    text-transform: capitalize;
+}
+
+.topnav a {
+    float: right;
+    display: block;
+    padding: 14px 16px;
+    color: #f2f2f2;
+    text-align: center;
+    text-decoration: none;
+}
